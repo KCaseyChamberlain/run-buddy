@@ -1,16 +1,20 @@
-# Run Buddy, Inc
+# Run Buddy
 
 ## Purpose
-A website that offers fitness training services. 
+A front-end web application that offers fitness training services.
 
 ## Built With
 * HTML
 * CSS
 
-## Website
-https://lernantino.github.io/run-buddy/
+### Application Demo
+![Run Buddy](./assets/images/demo.jpg)
 
-## Contribution
-Made with ❤️ by [your name]
+### Questions
+GitHub Username: (kcaseychamberlain) 
 
-### ©️2019 Run Buddy, Inc 
+View the project in GitHub at: https://github.com/KCaseyChamberlain/run-buddy
+
+View the application live hosted at: https://kcaseychamberlain.github.io/run-buddy/
+
+If you have any questions, contact Casey at: caseygchamberlain@gmail.com
