@@ -194,9 +194,8 @@ section {
 
 
 /* SECTION TITLE STYLES START */
-
-p {
-  font-size: 70px;
+.section-title {
+  font-size: 48px;
   border-bottom: 3px solid;
   color: var(--secondary-color);
   padding-bottom: 20px;
